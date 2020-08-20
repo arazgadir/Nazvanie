@@ -6,3 +6,9 @@ string a=AskName();
 int b= Askage()
 
 }
+
+
+static string Askname(){
+
+
+}
