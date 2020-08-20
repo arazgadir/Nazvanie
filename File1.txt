@@ -1,1 +1,8 @@
-Privet
+Using System
+
+
+{
+string a=AskName();
+int b= Askage()
+
+}
